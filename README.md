@@ -39,7 +39,7 @@ Clone this repository:
 bash
 
 Copy code
-git clone https://github.com/yourusername/netflix-sentiment-analysis.git  
+git clone https://github.com/aswami27/ML-for-text-mining-and-sentiment-analysis.git  
 
 Install dependencies:
 bash
